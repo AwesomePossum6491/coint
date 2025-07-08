@@ -1,1 +1,1 @@
-# coint
+A simple cointegration based strategy
